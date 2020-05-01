@@ -11,3 +11,6 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+## I finish the course today.
+![Congratulations!](https://camo.githubusercontent.com/2ca441ac2f206f16916ab83262ae9e74d5461931/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f77656c636f6d65746f6361742e706e67)
